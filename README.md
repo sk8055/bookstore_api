@@ -20,6 +20,7 @@ Sanctum : For Authentication
 
 # Installation
 Clone the repository: <code>git clone https://github.com/your-username/bookstore-api.git </code>
+
 Install dependencies: : <code> composer install </code>
 
 # Set up environment variables:
@@ -32,12 +33,10 @@ Install dependencies: : <code> composer install </code>
 <ul>
         <li>php artisan migrate </li>
 </ul>
-
 # Serve the application:
 <ul>
         <li>php artisan serve </li>
 </ul>
-
 # Usage
 
 <h5>Use API endpoints to interact with the bookstore:</h5>
